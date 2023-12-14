@@ -1,2 +1,0 @@
-# guppy.github.io
-Guppy
